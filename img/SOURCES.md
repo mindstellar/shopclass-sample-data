@@ -1,0 +1,46 @@
+# Sources
+
+File | Title | Author | Source page | Licence
+
+- flat-interior.webp | Couch Furniture | Kristin Hardwick | https://stocksnap.io/photo/couch-furniture-TQNWBTLHLY | CC0 1.0
+- laptop-desk.webp | Macbook Laptop | Lia Leslie | https://stocksnap.io/photo/macbook-laptop-DWLWL9USBG | CC0 1.0
+- phone.webp | Smartphone Mobile | Negative Space | https://stocksnap.io/photo/smartphone-mobile-IU6HNPC2NT | CC0 1.0
+- laptop.webp | Laptop Computer | Piotr Lohunko | https://stocksnap.io/photo/laptop-computer-GEO0HH5KL9 | CC0 1.0
+- dining-table.webp | business book turned wooden table | unknown | https://www.rawpixel.com/image/3337336/free-photo-image-wooden-desk-table | CC0 1.0
+- jacket.webp | Leather Jacket | Robbie Noble | https://stocksnap.io/photo/leather-jacket-DK118BUX57 | CC0 1.0
+- guitar.webp | Acoustic Guitar | Pawel Kadysz | https://stocksnap.io/photo/acoustic-guitar-LBCPMZCQPT | CC0 1.0
+- cat-tree.webp | King of the cat tree | L's pets & stuff | https://www.flickr.com/photos/36943025@N07/16951470676 | CC0 1.0
+- coffee-machine.webp | Technology Machines | Daryan Shamkhali | https://stocksnap.io/photo/technology-machines-0MLR4O66MP | CC0 1.0
+- market.webp | Colorful fruit vegetables market stall | unknown | https://www.rawpixel.com/image/3284018/free-photo-image-farmers-market-vegetables-store-fruit-shop | CC0 1.0
+- earbuds.webp | Koss headphones | Abdulla Al Muhairi | https://www.flickr.com/photos/57866029@N00/52459692877 | CC0 1.0
+- notebook.webp | Notebook Paper | Design by Matt | https://stocksnap.io/photo/notebook-paper-ZVEBBFEPLQ | CC0 1.0
+- giftcard.webp | Christmas Holiday | Negative Space | https://stocksnap.io/photo/christmas-holiday-N48V8SK5K3 | CC0 1.0
+- bike-trek.webp | bicycle | marcostetter | https://www.flickr.com/photos/149556095@N03/48019235328 | Public Domain Mark 1.0
+- drill.webp | Power drill | unknown | https://www.rawpixel.com/image/6041584/power-drill-free-public-domain-cc0-photo | CC0 1.0
+- speaker.webp | Altec Lansing Bookshelf Speakers | Ainsley117 | https://commons.wikimedia.org/wiki/File:Altec_Lansing_Bookshelf_Speakers.jpg | CC0 1.0
+- blocks.webp | Block tower on narrow base | Reseletti | https://commons.wikimedia.org/wiki/File:Block_tower_on_narrow_base.jpg | CC0 1.0
+- chocolate-box.webp | White-Box-of-Chocolates | Evan-Amos | https://commons.wikimedia.org/wiki/File:White-Box-of-Chocolates.jpg | CC0 1.0
+- car-hatchback.webp | 3rd generation Ford Focus front | Tokumeigakarinoaoshima | https://commons.wikimedia.org/wiki/File:3rd_generation_Ford_Focus_front.jpg | CC0 1.0
+- backpack.webp | Military backpack 01 | Pegasovagante | https://commons.wikimedia.org/wiki/File:Military_backpack_01.jpg | CC0 1.0
+- gardening.webp | Hedge trimmers | KVDP | https://commons.wikimedia.org/wiki/File:Hedge_trimmers.JPG | Public domain
+- tutor.webp | Math IMG 20220524 165943 | Tnadafwork | https://commons.wikimedia.org/wiki/File:Math_IMG_20220524_165943.jpg | CC0 1.0
+- skincare.webp | Mydło z Aleppo, 2 | Cybularny | https://commons.wikimedia.org/wiki/File:Myd%C5%82o_z_Aleppo,_2.jpg | CC0 1.0
+- walker.webp | Walker. frame | The original uploader was High Plains Drifter at English Wik | https://commons.wikimedia.org/wiki/File:Walker._frame.jpg | Public domain
+- cafe-barista.webp | Latte - Oui Crêperie 2023-08-14 | Andy Li | https://commons.wikimedia.org/wiki/File:Latte_-_Oui_Cr%C3%AAperie_2023-08-14.jpg | CC0 1.0
+- tshirt.webp | T-shirt mocup | EdaBojci | https://commons.wikimedia.org/wiki/File:T-shirt_mocup.jpg | CC0 1.0
+- sneakers.webp | Fashion-shoes-white-snickers (23699823403) | www.Pixel.la Free Stock Photos | https://commons.wikimedia.org/wiki/File:Fashion-shoes-white-snickers_(23699823403).jpg | CC0 1.0
+- mug.webp | Unknown artist - Mug - 1961.183 - Cleveland Museum of Art | unknown | https://commons.wikimedia.org/wiki/File:Unknown_artist_-_Mug_-_1961.183_-_Cleveland_Museum_of_Art.jpg | CC0 1.0
+- candle.webp | Scented candle candlelight | Csiiiyu | https://commons.wikimedia.org/wiki/File:Scented_candle_candlelight.jpg | CC0 1.0
+- serum.webp | A serum made | Jahra Tasfia Reza | https://commons.wikimedia.org/wiki/File:A_serum_made.jpg | CC0 1.0
+- yogamat.webp | Yoga mats | Sha89sha | https://commons.wikimedia.org/wiki/File:Yoga_mats.png | CC0 1.0
+- coffee-beans.webp | Roasted coffee beans | MarkSweep | https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg | Public domain
+- toy-train.webp | Wooden toy train • tracks and bridge | Thane Keller | https://commons.wikimedia.org/wiki/File:Wooden_toy_train_%E2%80%A2_tracks_and_bridge.jpg | CC0 1.0
+- dress.webp | Iconic ‘Heiress’ dress of pleated linen and crochet lace | Hunt Museum and Eamonn O'Mahony | https://commons.wikimedia.org/wiki/File:Iconic_%E2%80%98Heiress%E2%80%99_dress_of_pleated_linen_and_crochet_lace.jpg | CC0 1.0
+- ebook.webp | Cybook Opus Bookeen | Paulpaul | https://commons.wikimedia.org/wiki/File:Cybook_Opus_Bookeen.jpg | Public domain
+- towels.webp | Zusammengelegte Handtücher | User:Mattes | https://commons.wikimedia.org/wiki/File:Zusammengelegte_Handt%C3%BCcher.jpg | Public domain
+- dog.webp | Portrait of a labrador retriever | Dktue | https://commons.wikimedia.org/wiki/File:Portrait_of_a_labrador_retriever.jpg | CC0 1.0
+- pram.webp | Baby pram | Jason7825 at en.wikipedia | https://commons.wikimedia.org/wiki/File:Baby_pram.jpg | Public domain
+- house-exterior.webp | Newly developed single-family home in northern Germany | Boereck | https://commons.wikimedia.org/wiki/File:Newly_developed_single-family_home_in_northern_Germany.jpg | Public domain
+- boxes.webp | Cardboard moving boxes | Mindstellar (generated image) | - | CC0 1.0
+- dumbbells.webp | Hexagonal dumbbells | Mindstellar (generated image) | - | CC0 1.0
+- workbench.webp | Wooden workbench | Mindstellar (generated image) | - | CC0 1.0

@@ -1,0 +1,6 @@
+The images in this folder are released under CC0 1.0 Universal (public domain
+dedication) or marked as Public Domain (Public Domain Mark 1.0).
+Each file's title, author, source page and licence are listed in SOURCES.md.
+Images marked "Mindstellar (generated image)" are dedicated to the public domain
+under CC0 1.0 by Mindstellar.
+Images were cropped to 640x480 and converted to WebP.
